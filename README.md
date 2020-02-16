@@ -1,4 +1,4 @@
-# Awesome Payments
+# Awesome Payments | ![GitHub](https://img.shields.io/github/license/derjyn/awesome-payments) ![GitHub last commit](https://img.shields.io/github/last-commit/derjyn/awesome-payments) 
 
 *A curated list of payment processor resources.*
 
