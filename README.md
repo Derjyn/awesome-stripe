@@ -18,6 +18,7 @@ People manage to miss some of the core resources provided by Stripe. This list w
 * API docs (client-side) - https://stripe.com/docs/js
 * Stripe Samples - https://github.com/stripe-samples
 * Stripe Developers YouTube - https://www.youtube.com/channel/UCd1HAa7hlN5SCQjgCcGnsxw
+* Global (supported regions) - https://stripe.com/global
 * Pricing - https://stripe.com/pricing
 
 ### Products
@@ -25,7 +26,11 @@ People manage to miss some of the core resources provided by Stripe. This list w
 * Billing - https://stripe.com/billing
 * Checkout - https://stripe.com/payments/checkout
 * Connect - https://stripe.com/connect
+* Issuing - https://stripe.com/issuing
 * Radar - https://stripe.com/radar
+* Terminal - https://stripe.com/terminal
+* Sigma - https://stripe.com/sigma
+* Corporate Card - https://stripe.com/corporate-card
 * Atlas - https://stripe.com/atlas
 
 ### Other Bits
