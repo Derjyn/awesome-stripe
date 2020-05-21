@@ -6,7 +6,7 @@ While I'm by no means an expert in this field, after working with many different
 
 
 ## Other Processors
-Stripe doesn't always fit a businesses needs; The following processors can help fulfill someone's needs/use-case in this event.
+Stripe doesn't always fit a businesses use-case or meet various needs; The following processors can help in these scenarios.
 
 ### Regional
 Paystack (Africa) - https://paystack.com
