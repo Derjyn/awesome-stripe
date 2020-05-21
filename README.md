@@ -1,4 +1,4 @@
-# Awesome Stripe | ![GitHub](https://img.shields.io/github/license/derjyn/awesome-payments) ![GitHub last commit](https://img.shields.io/github/last-commit/derjyn/awesome-payments) 
+# Awesome Stripe | ![GitHub](https://img.shields.io/github/license/derjyn/awesome-stripe) ![GitHub last commit](https://img.shields.io/github/last-commit/derjyn/awesome-stripe) 
 
 *A curated list of payment processor resources.*
 
