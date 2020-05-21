@@ -18,6 +18,15 @@ People manage to miss some of the core resources provided by Stripe. This list w
 * API docs (client-side) - https://stripe.com/docs/js
 * Stripe Samples - https://github.com/stripe-samples
 * Stripe Developers YouTube - https://www.youtube.com/channel/UCd1HAa7hlN5SCQjgCcGnsxw
+* Pricing - https://stripe.com/pricing
+
+### Products
+* Payments - https://stripe.com/payments
+* Billing - https://stripe.com/billing
+* Checkout - https://stripe.com/payments/checkout
+* Connect - https://stripe.com/connect
+* Radar - https://stripe.com/radar
+* Atlas - https://stripe.com/atlas
 
 ### Other Bits
 * API Changelog - https://stripe.com/docs/upgrades#api-changelog
